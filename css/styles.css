@@ -1,0 +1,176 @@
+#title{
+    background-color: rgb(24, 24, 24);
+    color: antiquewhite;
+    height: auto;
+   
+   
+}
+
+.cubs{
+    width: 450px;
+    left: 170px;
+    position: absolute;
+   
+}
+.navbar{
+    padding-bottom: 46px;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    size: 2rem;
+    height: 1.5;
+    color: #A49473;
+}
+
+.navbar{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/* Features */
+.row{
+  
+    padding: 7% 10%;
+  
+    color: rgb(57, 57, 57);
+    font-family: 'Ubuntu', sans-serif;
+}
+ /* footer */
+ #footer{
+    
+    height:auto;
+  
+   
+    color: rgb(145, 145, 145);
+    font-family: 'Ubuntu', sans-serif;
+ }
+
+ .bottoms{
+    background-color:rgb(186 182 170);
+    text-align: center;
+    padding: 2% 10%;
+
+ }
+ #cta{
+    background-color: rgb(230 241 237);
+ }#Menu{
+    background-color: rgb(230 241 237);
+ }
+ p{
+    font-family: 'Ubuntu', sans-serif;
+    color:  rgb(86 79 61);
+ }
+ .butt{
+    padding-top: 60px;
+ }
+ .first{
+   height: 300px;
+   width: 450px;
+ }
+ .feature-box{
+    text-align: center;
+  
+ }
+.sup{
+    color: rgb(57, 57, 57);
+    padding-bottom: 20px;
+}
+/* testimonial */
+.test{
+
+    text-align: center;
+}
+#testimonials{
+    position: relative;
+    z-index: 1;
+    background-color:rgb(244 243 238);
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+   
+    height: 1.5;
+    color: #5a5652;
+    padding-bottom: 30px;
+}
+.testimonial-image{
+ 
+    padding-top: 30px;
+    width: 180px;
+    height: 469px;
+}
+.caramel{
+    width: 360px;
+    height: 469px;
+}
+.ice{
+    height: 469px;
+    width: 380px;
+}
+.summer{
+    padding-top: 160px;
+}
+.cara{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.testimonial-text{
+    color: rgba(136, 132, 126, 0.648);
+}
+
+.lady{
+    height: 300px;
+    width: 450px;
+}
+
+
+.opp{
+    padding-top: 100px;
+    color:  rgb(186 182 170);
+}
+
+.btn-success{
+background-color: #007047
+}
+    .history{
+        color: rgba(130, 115, 97, 0.598);
+        padding-bottom: 30px;
+    }
+
+
+.buts{
+    background-color:rgba(130, 115, 97, 0.598) ;
+    color: rgb(247, 238, 227);
+}
+.buts:hover{
+    background-color: rgb(50, 49, 49);
+}
+.summer{
+    color: rgba(130, 115, 97, 0.598) ;
+}
+
+/* new */
+
+#new{
+    padding: 3% 0%;
+    
+}
+
+.break{
+    height: 300px;
+    width: 450px;
+
+}   
+.sandwich{
+    padding-top: 50px;
+}
+.dot{
+    padding-top: 3px;
+}
+.icons{
+    color: white;
+    padding: 1%;
+}
